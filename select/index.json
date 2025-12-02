@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "放課後オーバーフロウ",
+  "base_artist": "ランカ・リー＝中島愛",
+  "createdAt": "2025-12-02T01:19:45.512896Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "放課後オーバーフロウ",
+      "artist": "Walkure",
+      "has_synced": false,
+      "path": "select/01_放課後オーバーフロウ_Walkure.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "放課後オーバーフロウ",
+      "artist": "ワルキューレ",
+      "has_synced": true,
+      "path": "select/02_放課後オーバーフロウ_ワルキューレ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "放課後オーバーフロウ",
+      "artist": "May’n",
+      "has_synced": true,
+      "path": "select/03_放課後オーバーフロウ_May’n.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "放課後オーバーフロウ",
+      "artist": "ランカ・リー",
+      "has_synced": true,
+      "path": "select/04_放課後オーバーフロウ_ランカ・リー.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "放課後オーバーフロウ",
+      "artist": "ワルキューレ (JUNNA, 鈴木みのり, 安野希世乃, 東山奈央, 西田望見)",
+      "has_synced": true,
+      "path": "select/05_放課後オーバーフロウ_ワルキューレ_(JUNNA,_鈴木みのり,_安野希世乃,_東山奈央,_西田望見).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "放課後オーバーフロウ",
+      "artist": "ランカ・リー=中島愛",
+      "has_synced": false,
+      "path": "select/pl_01_放課後オーバーフロウ_ランカ・リー=中島愛.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "放課後オーバーフロウ",
+      "artist": "ランカ・リー=中島愛",
+      "has_synced": false,
+      "path": "select/pl_02_放課後オーバーフロウ_ランカ・リー=中島愛.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "放課後オーバーフロウ",
+      "artist": "ランカ・リー=中島愛",
+      "has_synced": false,
+      "path": "select/pl_03_放課後オーバーフロウ_ランカ・リー=中島愛.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "放課後オーバーフロウ",
+      "artist": "ランカ・リー=中島愛",
+      "has_synced": false,
+      "path": "select/pl_04_放課後オーバーフロウ_ランカ・リー=中島愛.txt"
+    },
+    {
+      "id": "petitlyrics_5",
+      "source": "petitlyrics",
+      "title": "放課後オーバーフロウ",
+      "artist": "ランカ・リー=中島愛",
+      "has_synced": false,
+      "path": "select/pl_05_放課後オーバーフロウ_ランカ・リー=中島愛.txt"
+    }
+  ]
+}
